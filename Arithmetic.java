@@ -1,3 +1,6 @@
+/* Program of basic Arithmetic Oprations
+Author :- Chirag Solanki */
+
 class Arithmetic{
     public static void main(String args[]){
     int no1 = 20;
