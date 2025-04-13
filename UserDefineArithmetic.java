@@ -1,6 +1,6 @@
 /*Author Chirag Solanki.
 User Define Arithmetic Oprations Program */
-import java.util.Scanner;
+import java.util.Scanner; // It **imports the Scanner class** so you can read input from the user.
 
 public class UserDefineArithmetic{
     public static void main(String args[]){
