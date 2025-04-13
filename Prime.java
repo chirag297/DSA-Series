@@ -12,12 +12,8 @@ public class Prime{
         no = sc.nextInt();
         while(count < no){
             if(no % count == 0){
-                //System.out.println("Given Number "+no+" Is Not Prime");
                 flag = false;
-            }//else{
-                //System.out.println("Given Number "+no+" Is Prime");
-                //return;
-            //}
+            }
             count++;
         }
         if(flag){
